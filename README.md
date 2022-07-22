@@ -1,4 +1,4 @@
-# SUMMARY OF REACT PROJECTS
+# SUMMARY OF REACT PROJECTS:
 
 ### useState
 1. :birthday: Birthday Reminder 
@@ -11,7 +11,13 @@
 6. :file_folder: Tabs
 7. :repeat: Slider
 
-# TO READ EACH PROJECT 
+### Forms
+8. :memo: Lorem Ipsum
+9. :art: Color Generator
+10. :memo: Grocery Bud
+
+
+# TO READ EACH PROJECT:
 # Getting Started with Create React App
 
 Projects was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
