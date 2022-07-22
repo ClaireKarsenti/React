@@ -14,6 +14,7 @@
 ### Forms
 8. :memo: Lorem Ipsum
 9. :art: Color Generator
+10. :memo: Grocery Bud
 
 
 # TO READ EACH PROJECT:
