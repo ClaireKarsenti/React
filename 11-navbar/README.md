@@ -1,35 +1,10 @@
-# SUMMARY OF REACT PROJECTS :
-
-### useState
-
-1. :birthday: Birthday Reminder
-
-### useEffect and Conditional Rendering
-
-2. :world_map: Tours
-3. :busts_in_silhouette: Reviews
-4. :question: Questions
-5. :hamburger: Menu
-6. :file_folder: Tabs
-7. :repeat: Slider
-
-### Forms
-8. :memo: Lorem Ipsum
-9. :art: Color Generator
-10. :white_check_mark: Grocery Bud
-
-### useRef
-11. :card_index: Navbar
-
-# TO READ EACH PROJECT :
-
 # Getting Started with Create React App
 
-Projects was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In each project directory, you can run:
+In the project directory, you can run:
 
 ### `npm start`
 
